@@ -1,5 +1,4 @@
 package edu.kh.array.ex;
-
 import java.util.Arrays;
 import java.util.Scanner;import javax.swing.tree.FixedHeightLayoutCache;
 
@@ -231,7 +230,7 @@ public class ArrayExample1 {
 		// {} (중괄호) 는 배열의 리터럴 표기법 
 		
 		System.out.println( Arrays.toString(arr3) );
-		
+		System.out.println( "Hello world" );
 		
 		
 	}
